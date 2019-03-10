@@ -1,7 +1,5 @@
 git remote add origin https://github.com/kizilov/css-dinner-shopping-list.git
 
-
-
 html{}
 	
 *{
@@ -23,16 +21,12 @@ text-align:  center;
 color: red;
 }
 
-main{
-	width: 60%;
-	padding: 20px;
-	margin: 0 auto;
-	outline: 1px solid none;
 
-}
 
  *{transition: all .3s ease-in;}
  *{list-style-type: none;}
+
+
 
 
 li:hover{
